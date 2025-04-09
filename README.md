@@ -1,18 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zianne Robinson
+Zianne Robinson
 =======================================================================================================================================
 
 Computer Engineer
 -----------------
 
-On to my last year as a Computer Engineering undergrad student.
+Computer Engineering undergrad student.
 
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [Blog](http://zozo-182.github.io/)
 * ✉️  You can contact me at [robinsonzianne@gmail.com](mailto:robinsonzianne@gmail.com)
 * 🚀  I'm currently working on [AI Vision, Health, Biometrics, and Applied Computing](http://github.com/AVHBAC)
-* 🧠  I'm learning Data Abstraction, Algorithms and Data Structures with C++ and the STL (Strengthening Basic Concepts)
-* 🤝  I'm open to collaborating on pretty much anything!
-* ⚡  I have a cat named Applebee (Mr. Bee)
+* 🧠  I'm currently reading [Extreme C](https://www.google.com/books/edition/Extreme_C/G0C7DwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) by Kamran Amini
+* ⚡  [Bootdev](https://www.boot.dev/tracks/backend)
 
 ### Skills
 
