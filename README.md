@@ -1,10 +1,10 @@
 Zianne Robinson
 =======================================================================================================================================
 
-Computer Engineer
+Embedded Software Engineer
 -----------------
 
-Computer Engineering undergrad student.
+Professional Embedded Software Engineer Hobby Stuff.
 
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [Blog](http://zozo-182.github.io/)
