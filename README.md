@@ -4,12 +4,10 @@ Zianne Robinson
 Embedded Software Engineer
 -----------------
 
-Professional Embedded Software Engineer Hobby Stuff.
+Embedded Software Engineer Hobby Stuff.
 
-* 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [Blog](http://zozo-182.github.io/)
-* ✉️  You can contact me at [robinsonzianne@gmail.com](mailto:robinsonzianne@gmail.com)
-* 🚀  I'm currently working on [AI Vision, Health, Biometrics, and Applied Computing](http://github.com/AVHBAC)
+* 🚀  I'm currently working on [BOOTDEV HACKATHON](https://www.boot.dev/tracks/backend)
 * 🧠  I'm currently reading [Extreme C](https://www.google.com/books/edition/Extreme_C/G0C7DwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) by Kamran Amini
 * ⚡  [Bootdev](https://www.boot.dev/tracks/backend)
 
