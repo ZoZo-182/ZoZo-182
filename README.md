@@ -11,7 +11,7 @@ Hobby stuff
 * I'm currently reading [Software Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) by Alex Xu
 * [Bootdev](https://www.boot.dev/tracks/backend)
 
-### Skills
+### (Soon to be) Skills
 
 
 <p align="left">
