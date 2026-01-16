@@ -1,15 +1,15 @@
-Zianne Robinson
+CapacitanceZ
 =======================================================================================================================================
 
 Embedded Software Engineer
 -----------------
 
-Embedded Software Engineer Hobby Stuff.
+Hobby stuff
 
-* 🖥️  See my portfolio at [Blog](http://zozo-182.github.io/)
-* 🚀  I'm currently working on [BOOTDEV HACKATHON](https://www.boot.dev/tracks/backend)
-* 🧠  I'm currently reading [Extreme C](https://www.google.com/books/edition/Extreme_C/G0C7DwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) by Kamran Amini
-* ⚡  [Bootdev](https://www.boot.dev/tracks/backend)
+* See my portfolio at [Blog](http://zozo-182.github.io/) this is a placeholder
+* I'm currently working on [BOOTDEV](https://www.boot.dev/tracks/backend)
+* I'm currently reading [Software Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) by Alex Xu
+* [Bootdev](https://www.boot.dev/tracks/backend)
 
 ### Skills
 
