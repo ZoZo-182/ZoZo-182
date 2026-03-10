@@ -1,7 +1,3 @@
-Zianne Robinson
-=======================================================================================================================================
-
-## Intro
 *introduce yourself first sheesh*
 * I'm currently working on [OpenStalk](https://github.com/ZoZo-182/OpenStalk)
 * I'm currently reading [Software Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) by Alex Xu
