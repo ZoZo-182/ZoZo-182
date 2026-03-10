@@ -7,8 +7,12 @@ Zianne Robinson
 * [Blog](http://zozo-182.github.io/)
 * [Bootdev](https://www.boot.dev/tracks/backend)
 
-## Finished Projects
+## Projects
+### Real World
 *too lazy to go through and add right now*
+
+### Acadamia
+
 
 ## Books Read + Thoughts
 *come back and edit this too*
