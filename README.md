@@ -10,8 +10,8 @@ I woke up one day and decided to start building in public just for fun.
 
 ## Projects
 ### Straight from my brain 
-[cFS-data-recorder](https://github.com/ZoZo-182/cFS-data-recorder)
-[YATLA](https://github.com/ZoZo-182/YATLA)
+[cFS-data-recorder](https://github.com/ZoZo-182/cFS-data-recorder) \
+[YATLA](https://github.com/ZoZo-182/YATLA) \
 [OpenStalk](https://github.com/ZoZo-182/OpenStalk)
 
 ### Acadamia
