@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ZoZo-182)
+
 Hi my name is Zianne. I wish I could say I started programming at 9 like everyone else, but no. At 18 I decided to pursue a degree in computer engineering, and while I guess that was the age I officially started,
 I didn't lock in and develop a passion for this stuff until the summer before my last year of uni (ty Bootdev). 
 As for my outside of acadamia projects: 
