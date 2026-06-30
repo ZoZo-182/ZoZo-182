@@ -6,7 +6,7 @@ As for my outside of acadamia projects:
 I woke up one day and decided to start building in public just for fun.
 
 * I'm currently working on [data recorder](https://github.com/ZoZo-182/data-recorder)
-* I'm currently reading [Humble Pi: When Math Goes Wrong in the Real World](https://www.amazon.com/Humble-Pi-When-Wrong-World/dp/0593084683) by Thorsten Ball
+* I'm currently reading [Humble Pi: When Math Goes Wrong in the Real World](https://www.amazon.com/Humble-Pi-When-Wrong-World/dp/0593084683) by Matt Parker
 * Blog but it's dead right now, hopefully I'll start again soon [Blog](http://zozo-182.github.io/)
 * Fun learning site I utilized heavily during undergrad [Bootdev](https://www.boot.dev/u/capacitance)
 
