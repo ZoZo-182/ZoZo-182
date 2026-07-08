@@ -32,7 +32,7 @@ I woke up one day and decided to start building in public just for fun.
 *Took too long to write my thoughts down about this after reading it. JSON Derulo*
 
 [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) by Brian W. Kernighan and Dennis M. Ritchie \
-*It's only ~250 pages, why not have this one under your belt?*
+*10/10*
 
 [Writing An Interpreter In Go](https://www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball/dp/3982016118) by Thorsten Ball \
 *Paused until I miss Go*
