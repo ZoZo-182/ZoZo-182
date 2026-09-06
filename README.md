@@ -1,9 +1,5 @@
-![](https://komarev.com/ghpvc/?username=ZoZo-182)
-
-Hi my name is Zianne. I wish I could say I started programming at 9 like everyone else, but no. At 18 I decided to pursue a degree in computer engineering, and while I guess that was the age I officially started,
-I didn't lock in and develop a passion for this stuff until the summer before my last year of uni (ty Bootdev). 
-As for my outside of academia projects: 
-I woke up one day and decided to start building in public just for fun.
+Hi my name is Zianne. I wish I could say I started programming at 9 like everyone else, but no. At 18 I decided to pursue a degree in computer engineering, and while I guess that was the age I officially started, I didn't lock in and develop a passion for this stuff until the summer before my last year of uni (ty Bootdev). 
+As for my projects outside of academia, I woke up one day and decided to start building in public just for fun.
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/9a147980-6a0c-49fd-b86c-f89baacd7a66/thumbnail" >
@@ -11,16 +7,19 @@ I woke up one day and decided to start building in public just for fun.
 
 ## Projects
 ### Straight from my brain 
-[cFS-data-recorder](https://github.com/ZoZo-182/cFS-data-recorder) \
-[YATLA](https://github.com/ZoZo-182/YATLA) \
+[cFS Data Recorder](https://github.com/ZoZo-182/cFS-data-recorder)
+A data recorder application built for NASA's Core Flight System (cFS).
+
+[YATLA](https://github.com/ZoZo-182/YATLA)
+Yet another todo list app, built to explore full-stack application development.
+
 [OpenStalk](https://github.com/ZoZo-182/OpenStalk)
+A Go CLI for keeping up with recent issues, pull requests, and commits across GitHub repositories.
 
-### Academia
-[Oauth Project]() \
-*Hold on I think this is private let me clean it up first*
+<!-- academia section soon -->
 
 
-## Books Read
+## Books
 [Web Development and Design](https://www.amazon.com/Web-Development-Design-Beginners-JavaScript/dp/1777934621) by James Webb \
 *Focuses on the design aspect more than I liked*
 
@@ -45,3 +44,4 @@ I woke up one day and decided to start building in public just for fun.
 
 <p align="left"> <a href="https://discord.com/users/capacitance" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </p>
 
+![](https://komarev.com/ghpvc/?username=ZoZo-182)
