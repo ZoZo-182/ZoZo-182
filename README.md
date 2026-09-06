@@ -2,12 +2,11 @@
 
 Hi my name is Zianne. I wish I could say I started programming at 9 like everyone else, but no. At 18 I decided to pursue a degree in computer engineering, and while I guess that was the age I officially started,
 I didn't lock in and develop a passion for this stuff until the summer before my last year of uni (ty Bootdev). 
-As for my outside of acadamia projects: 
+As for my outside of academia projects: 
 I woke up one day and decided to start building in public just for fun.
 
 * I'm currently working on [data recorder](https://github.com/ZoZo-182/data-recorder)
-* I'm currently reading [Humble Pi: When Math Goes Wrong in the Real World](https://www.amazon.com/Humble-Pi-When-Wrong-World/dp/0593084683) by Matt Parker
-* Blog but it's dead right now, hopefully I'll start again soon [Blog](http://zozo-182.github.io/)
+* I'm currently reading [System Design Interview: An Insider's Guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF?refinements=p_27%3AAlex+Xu&s=books) by Alex Xu
 * Fun learning site I utilized heavily during undergrad [Bootdev](https://www.boot.dev/u/capacitance)
 
 ## Projects
@@ -16,7 +15,7 @@ I woke up one day and decided to start building in public just for fun.
 [YATLA](https://github.com/ZoZo-182/YATLA) \
 [OpenStalk](https://github.com/ZoZo-182/OpenStalk)
 
-### Acadamia
+### Academia
 [Oauth Project]() \
 *Hold on I think this is private let me clean it up first*
 
@@ -40,7 +39,7 @@ I woke up one day and decided to start building in public just for fun.
 [Humble Pi: When Math Goes Wrong in the Real World](https://www.amazon.com/Humble-Pi-When-Wrong-World/dp/0593084683) by Matt Parker \
 *Current*
 
-*reading que coming soon*
+*reading queue coming soon*
 
 ### Contact
 
