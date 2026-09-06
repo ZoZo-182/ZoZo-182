@@ -5,9 +5,9 @@ I didn't lock in and develop a passion for this stuff until the summer before my
 As for my outside of academia projects: 
 I woke up one day and decided to start building in public just for fun.
 
-* I'm currently working on [data recorder](https://github.com/ZoZo-182/data-recorder)
-* I'm currently reading [System Design Interview: An Insider's Guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF?refinements=p_27%3AAlex+Xu&s=books) by Alex Xu
-* Fun learning site I utilized heavily during undergrad [Bootdev](https://www.boot.dev/u/capacitance)
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/9a147980-6a0c-49fd-b86c-f89baacd7a66/thumbnail" >
+</p>
 
 ## Projects
 ### Straight from my brain 
@@ -37,7 +37,7 @@ I woke up one day and decided to start building in public just for fun.
 *Paused until I miss Go*
 
 [Humble Pi: When Math Goes Wrong in the Real World](https://www.amazon.com/Humble-Pi-When-Wrong-World/dp/0593084683) by Matt Parker \
-*Current*
+*It was a nice break from the heavy technical stuff. Love how all ages can enjoy this*
 
 *reading queue coming soon*
 
